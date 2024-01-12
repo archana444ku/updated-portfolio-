@@ -6,7 +6,7 @@ TECHNOLOGY STACK
 •	Frontend static website.  
 •	Programming Languages: , HTML, CSS, and JavaScript  
 HARDWARE 
-•	Server: A dedicated server or cloud-based virtual machine (VM) to host the Django application. 
+•	Server: A dedicated server or cloud-based virtual machine (VM) . 
 •	CPU and RAM 
 •	Storage: Adequate storage space for the database, application code, and uploaded files. 
 •	Network Infrastructure: Reliable internet connectivity, firewalls, and security measures to protect the system. 
